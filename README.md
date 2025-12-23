@@ -17,7 +17,7 @@ This project is a Power BI dashboard designed to analyze mobile sales data and t
 - Excel / CSV dataset
 
 ## 📸 Dashboard Preview
-![Dashboard](PowerBifinalDashboard.png)
+![Dashboard](PowerBifinalDashbord.png)
 
 ## 📂 Files in Repository
 - `Updated_practice_dashboard_2_complete.pbix` – Mobile Sales Dashboard
