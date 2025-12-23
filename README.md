@@ -21,7 +21,7 @@ This project is a Power BI dashboard designed to analyze mobile sales data and t
 
 ## 📂 Files in Repository
 - `Updated_practice_dashboard_2_complete.pbix` – Mobile Sales Dashboard
-- `PowerBifinalDashboard.png` – Dashboard screenshot
+- `PowerBifinalDashbord.png` – Dashboard screenshot
   
 ## 🚀 Key Insights
 - Identified top-selling mobile brands
